@@ -12,7 +12,7 @@
 
 点击下方按钮立即部署到 Vercel：
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/yourname/hidream-vercel-template)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/cookies0814/hidream-vercel-template)
 
 ## 🛠️ 本地开发
 
